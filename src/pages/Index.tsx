@@ -18,7 +18,7 @@ const Index = () => {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="text-center md:text-left animate-fade-in-up">
                 <Heart className="w-6 h-6 text-primary mx-auto md:mx-0 mb-4 animate-float-heart" />
-                <h1 className="font-script text-5xl md:text-7xl text-foreground leading-tight">
+                <h1 className="text-5xl md:text-7xl text-foreground leading-tight" style={{ fontFamily: "'Great Vibes', cursive" }}>
                   Bijou Babies
                 </h1>
                 <p className="font-display text-lg md:text-xl text-muted-foreground mt-2 italic">
