@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center justify-center py-3 border-b border-border">
           <Link to="/" className="text-center">
-            <h1 className="font-script text-4xl md:text-5xl text-foreground tracking-wide">
+            <h1 className="text-4xl md:text-5xl text-foreground" style={{ fontFamily: "'Great Vibes', cursive" }}>
               Bijou Babies
             </h1>
             <p className="text-xs tracking-[0.3em] uppercase text-muted-foreground mt-0.5">
