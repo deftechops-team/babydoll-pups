@@ -12,7 +12,7 @@ const Footer = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8 text-center">
           <div>
             <h4 className="font-display text-sm font-semibold text-foreground mb-3">Navigate</h4>
             <div className="space-y-2">
