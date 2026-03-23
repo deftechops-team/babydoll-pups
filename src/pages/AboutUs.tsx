@@ -9,7 +9,7 @@ const AboutUs = () => (
       <div className="container mx-auto px-4 max-w-3xl">
         <div className="prose max-w-none">
           <p className="text-muted-foreground leading-relaxed text-lg mb-6">
-            Welcome to Bijou Babies — a boutique breeding program dedicated to producing the finest 
+            Welcome to Babydoll Pups — a boutique breeding program dedicated to producing the finest 
             Extreme Babydoll Korean Maltese. Our journey began with a deep love for this extraordinary 
             breed and a commitment to preserving their most cherished qualities.
           </p>

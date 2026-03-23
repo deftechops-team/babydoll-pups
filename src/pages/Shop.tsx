@@ -37,7 +37,7 @@ const Shop = () => (
         <div className="text-center max-w-3xl mx-auto mb-12">
           <h2 className="font-serif text-3xl md:text-4xl text-foreground mb-4">Our Recommendations</h2>
           <p className="text-muted-foreground text-lg leading-relaxed">
-            Click on any of the products below to view and purchase them directly on Amazon. We only recommend products we personally use and trust for our Bijou Babies.
+            Click on any of the products below to view and purchase them directly on Amazon. We only recommend products we personally use and trust for our Babydoll Pups.
           </p>
         </div>
         

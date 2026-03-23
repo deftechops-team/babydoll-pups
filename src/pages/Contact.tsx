@@ -19,7 +19,7 @@ const Contact = () => (
             </p>
             <div className="space-y-4">
               {[
-                { icon: Mail, label: "Email", value: "info@bijoubabies.com" },
+                { icon: Mail, label: "Email", value: "hello@yourbizbabydollpups.com" },
                 { icon: Phone, label: "Phone", value: "Contact for number" },
                 { icon: MapPin, label: "Location", value: "United States" },
               ].map(({ icon: Icon, label, value }, i) => (

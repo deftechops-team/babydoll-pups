@@ -18,7 +18,7 @@ const Gallery = () => {
           <div className="columns-2 md:columns-3 gap-4 space-y-4">
             {images.map((img, i) => (
               <div key={i} className="break-inside-avoid rounded-xl overflow-hidden shadow-md border border-border group">
-                <img src={img} alt={`Bijou Babies Maltese gallery photo ${i + 1}`} className="w-full group-hover:scale-105 transition-transform duration-500" />
+                <img src={img} alt={`Babydoll Pups Maltese gallery photo ${i + 1}`} className="w-full group-hover:scale-105 transition-transform duration-500" />
               </div>
             ))}
           </div>

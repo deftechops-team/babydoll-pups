@@ -19,7 +19,7 @@ const Index = () => {
               <div className="text-center md:text-left animate-fade-in-up">
                 <Heart className="w-6 h-6 text-primary mx-auto md:mx-0 mb-4 animate-float-heart" />
                 <h1 className="text-5xl md:text-7xl text-foreground leading-tight" style={{ fontFamily: "'Great Vibes', cursive" }}>
-                  Bijou Babies
+                  Babydoll Pups
                 </h1>
                 <p className="font-display text-lg md:text-xl text-muted-foreground mt-2 italic">
                   Extreme Babydoll Korean Maltese
@@ -166,7 +166,7 @@ const Index = () => {
       <section className="py-16 gradient-rose">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl md:text-4xl text-foreground">Why Bijou Babies?</h2>
+            <h2 className="font-display text-3xl md:text-4xl text-foreground">Why Babydoll Pups?</h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
